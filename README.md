@@ -1,7 +1,7 @@
 # Amir Roshan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-roshan/)
-[![GitHub](https://img.shields.io/github/followers/amirroshan?label=Follow&style=social)](https://github.com/amir-roshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-roshan-525212271/)
+[![GitHub](https://img.shields.io/github/followers/amir-roshan?label=Follow&style=social)](https://github.com/amir-roshan)
 
 ## 👋 About Me
 
