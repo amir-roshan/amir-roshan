@@ -34,7 +34,7 @@ Hello! I'm **Amir Roshan**, a passionate and curious developer with a strong int
 - **React**: Enhancing my skills to transition from basics to advanced concepts.
 - **Node.js and Express**: Deepening my backend development knowledge.
 
-## 📚 Courses and Certifications
+## 📚 Courses
 
 - **C++ Part 1: Fundamentals** - Code With Mosh
 - **Java Part 1: Fundamentals**, **Java Part 2: Object-oriented Programming**, **Java Part 3: Advanced Topics** - Code With Mosh
