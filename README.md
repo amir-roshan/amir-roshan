@@ -1,7 +1,7 @@
 # Amir Roshan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirroshan/)
-[![GitHub](https://img.shields.io/github/followers/amirroshan?label=Follow&style=social)](https://github.com/amirroshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-roshan/)
+[![GitHub](https://img.shields.io/github/followers/amirroshan?label=Follow&style=social)](https://github.com/amir-roshan)
 
 ## 👋 About Me
 
@@ -39,20 +39,11 @@ Hello! I'm **Amir Roshan**, an international student pursuing CST flex after CSC
 
 - **React**: Enhancing my skills to transition from basics to advanced concepts.
 - **Node.js and Express**: Deepening my backend development knowledge.
-- **Computer Graphics**: Exploring graphic programming to understand Unity and physics implementation in games.
 
 ## 📚 Courses and Certifications
 
 - **Ultimate JavaScript Part 1: Fundamentals** - Code with Mosh
 - **Ultimate JavaScript Part 2: Advanced Topics** - Code with Mosh
-
-## 🛠️ Projects
-
-### [Card Game Simulation](https://github.com/amirroshan/card-game-simulation)
-A JavaScript simulation of a card game featuring deck creation, shuffling, dealing, and player hand display.
-
-### [Music Text Processor](https://github.com/amirroshan/music-text-processor)
-A Java-based program that processes music text and stores music details in a MongoDB database.
 
 ## 🎨 Interests
 
@@ -60,19 +51,12 @@ A Java-based program that processes music text and stores music details in a Mon
 - **3D Design and VFX**: Creating visually stunning graphics and effects.
 - **Web Development**: Developing robust and scalable web applications.
 
-## 📝 Blog
-
-I occasionally write about my learning experiences and technical explorations. Check out my latest posts:
-
-- [Overcoming Tutorial Hell in React](https://medium.com/@amirroshan/overcoming-tutorial-hell-in-react)
-- [A Deep Dive into Unity Physics](https://medium.com/@amirroshan/a-deep-dive-into-unity-physics)
 
 ## 📫 Contact Me
 
-- **Email**: amir.roshan@example.com
-- **LinkedIn**: [linkedin.com/in/amirroshan](https://www.linkedin.com/in/amirroshan/)
-- **Twitter**: [@amirroshan_dev](https://twitter.com/amirroshan_dev)
+- **LinkedIn**: [linkedin.com/in/amirroshan](https://www.linkedin.com/in/amir-roshan-525212271/)
+- **Twitter**: [@amirroshan_dev](https://twitter.com/AmirRos45907438)
 
 ---
 
-⭐️ From [Amir Roshan](https://github.com/amirroshan)
+⭐️ From [Amir Roshan](https://github.com/amir-roshan)
