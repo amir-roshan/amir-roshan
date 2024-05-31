@@ -5,13 +5,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Amir Roshan**, an international student pursuing CST flex after CSC. I am passionate about full-stack development, game development, and continuous self-improvement. I aim to specialize in Node.js, Express, MongoDB, and React, and I also have a keen interest in computer graphics and game development.
-
-## 💼 Professional Goals
-
-- 📈 Become a full-stack developer specializing in **Node.js**, **Express**, **MongoDB**, and **React** within the next two years.
-- 🎮 Achieve a professional level in game development and computer graphics within six years.
-- 🌐 Expand my knowledge about data structures and algorithms.
+Hello! I'm **Amir Roshan**, a passionate and curious developer with a strong interest in full-stack development and game development. My journey began with learning C# for Unity to create games, then I delved into JavaScript for building simpler web applications. I also gained proficiency in Java through my college studies. Currently, I aim to specialize in Node.js, Express, MongoDB, and React.
 
 ## 🚀 Skills and Technologies
 
@@ -42,8 +36,18 @@ Hello! I'm **Amir Roshan**, an international student pursuing CST flex after CSC
 
 ## 📚 Courses and Certifications
 
-- **Ultimate JavaScript Part 1: Fundamentals** - Code with Mosh
-- **Ultimate JavaScript Part 2: Advanced Topics** - Code with Mosh
+- **C++ Part 1: Fundamentals** - Code With Mosh
+- **Java Part 1: Fundamentals**, **Java Part 2: Object-oriented Programming**, **Java Part 3: Advanced Topics** - Code With Mosh
+- **HTML5 & CSS3 Part 1**, **HTML5 & CSS3 Part 2** - Code With Mosh
+- **JavaScript Fundamentals**, **JavaScript Advanced Topics** - Code With Mosh
+- **React 18 for Beginners** - Code With Mosh
+- **Complete Intro to Web Development, v3**, **JavaScript: From First Steps to Professional**, **JavaScript: The Hard Parts, v2**, **Introduction to Node.js, v3**, **Complete Intro to React, v8** - Frontend Masters
+- **Programming Fundamentals Part 1 (Python) - BCIT**
+- **Programming Fundamentals Part 2 (Java) - BCIT**
+- **Programming Fundamentals Part 3 (Object Design) - BCIT**
+- **Applied Computer Concepts - BCIT**
+- **Web Development and Design - BCIT**
+- **Web Development with JavaScript - BCIT**
 
 ## 🎨 Interests
 
