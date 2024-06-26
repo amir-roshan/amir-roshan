@@ -12,19 +12,19 @@ Hello! I'm **Amir Roshan**, a passionate and curious developer with a strong int
 ### Languages and Tools
 
 <p align="left">
-  <a href="https://redux.js.org/" target="_blank"><img src="https://iconduck.com/icons/27881/redux" alt="Redux" width="40" height="40"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="typescript-icon-url" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="express-icon-url" alt="Express" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/></a>
 </p>
