@@ -59,7 +59,7 @@ Hello! I'm **Amir Roshan**, a passionate and curious developer with a strong int
 ## 📫 Contact Me
 
 - **LinkedIn**: [linkedin.com/in/amirroshan](https://www.linkedin.com/in/amir-roshan-525212271/)
-- **Twitter**: [@amirroshan_dev](https://twitter.com/AmirRos45907438)
+- **Instagram**: https://www.instagram.com/amir.__.roshan/
 
 ---
 
